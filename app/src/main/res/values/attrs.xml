@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BlinkLayout_Layout">
+        <attr name="no_blink" format="boolean" />
+    </declare-styleable>
+</resources>
